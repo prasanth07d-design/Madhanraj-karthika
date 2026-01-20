@@ -1,0 +1,51 @@
+BEGIN:VCALENDAR
+PRODID:-//Tamil Wedding//Google Calendar Compatible//EN
+VERSION:2.0
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:தமிழ் திருமணம் | Tamil Wedding
+X-WR-TIMEZONE:Asia/Kolkata
+X-WR-CALDESC:தமிழ் பாரம்பரிய திருமண விழா
+
+BEGIN:VTIMEZONE
+TZID:Asia/Kolkata
+X-LIC-LOCATION:Asia/Kolkata
+BEGIN:STANDARD
+TZOFFSETFROM:+0530
+TZOFFSETTO:+0530
+TZNAME:IST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:tamil-wedding-ceremony-20260128@wedding
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Kolkata:20260128T050000
+DTEND;TZID=Asia/Kolkata:20260128T063000
+SUMMARY:திருமண விழா | Wedding Ceremony
+LOCATION:Vennadhur Viswanatha Eswarar Temple, Tamil Nadu, India
+CLASS:PUBLIC
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:OPAQUE
+X-GOOGLE-CONFERENCE:https://meet.google.com/pcv-pndf-xux
+DESCRIPTION:<html-blob><b>மங்களகரமான திருமண அழைப்பிதழ்</b><br><br>எங்கள் திருமண விழாவில் கலந்து கொண்டு ஆசீர்வதிக்க உங்களை அன்புடன் அழைக்கிறோம்.<br><br><b>மuhurtham (திருமண விழா)</b><br>இடம்: வெண்ணந்தூர் விஸ்வநாத ஈஸ்வரர் கோயில்<br>நாள்: 28 ஜனவரி 2026 (புதன்கிழமை)<br>நேரம்: காலை 5:00 – 6:30 (IST)<br><br>📺 நேரலை (Live Streaming):<br><a href="https://meet.google.com/YOUR-MEET-LINK">Google Meet மூலம் இணைக</a><br><br>🙏 நன்றி</html-blob>
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tamil-wedding-reception-20260128@wedding
+DTSTAMP:20260101T000000Z
+DTSTART;TZID=Asia/Kolkata:20260128T070000
+DTEND;TZID=Asia/Kolkata:20260128T110000
+SUMMARY:திருமண வரவேற்பு | Morning Reception
+LOCATION:Sellandiyamman Temple Mandapam, Alavaipatti, Tamil Nadu, India
+CLASS:PUBLIC
+STATUS:CONFIRMED
+SEQUENCE:0
+TRANSP:OPAQUE
+X-GOOGLE-CONFERENCE:https://meet.google.com/iod-nfbs-rhx
+DESCRIPTION:<html-blob><b>திருமண வரவேற்பு</b><br><br>திருமணத்தைத் தொடர்ந்து நடைபெறும் வரவேற்பு நிகழ்ச்சியில் கலந்து கொண்டு வாழ்த்துமாறு கேட்டுக் கொள்கிறோம்.<br><br><b>காலை வரவேற்பு</b><br>இடம்: செல்லாண்டியம்மன் கோயில் மண்டபம், ஆலவாய்பட்டி<br>நாள்: 28 ஜனவரி 2026 (புதன்கிழமை)<br>நேரம்: காலை 7:00 – 11:00 (IST)<br><br>📺 நேரலை (Live Streaming):<br><a href="https://meet.google.com/YOUR-MEET-LINK">Google Meet மூலம் இணைக</a><br><br>🙏 நன்றி</html-blob>
+END:VEVENT
+
+END:VCALENDAR
